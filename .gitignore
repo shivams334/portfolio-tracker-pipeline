@@ -5,3 +5,4 @@ __pycache__/
 logs/
 data/holdings_real.csv
 data/holdings_raw.csv
+.DS_Store
